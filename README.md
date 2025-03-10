@@ -1,8 +1,15 @@
 # Welcome to My Portfolio 👋
 
-## Hi, I'm Aravind Harikumar!
 
-I am a **Data Science Intern** and **Machine Learning Enthusiast** with a passion for turning data into actionable insights and innovative solutions. I am currently pursuing an Integrated MSc in Data Science at Amrita Vishwa Vidyapeetham. I love working on data-driven projects and am constantly looking for new opportunities to learn and grow.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Python, R, SQL, HTML, CSS
+- **Data Science Skills**: Data Visualization, Feature Engineering, Data Wrangling, Machine Learning
+- **Frameworks/Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
+- **Web Development**: React, Django, PostgreSQL
 
 ---
 
@@ -32,20 +39,11 @@ I am a **Data Science Intern** and **Machine Learning Enthusiast** with a passio
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming Languages**: Python, R, SQL, HTML, CSS
-- **Data Science Skills**: Data Visualization, Feature Engineering, Data Wrangling, Machine Learning
-- **Frameworks/Tools**: TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
-- **Web Development**: React, Django, PostgreSQL
-
----
-
 ## 🎓 Education
 
 - **Integrated MSc Data Science**  
   Amrita Vishwa Vidyapeetham (2021-2026)  
-  CGPA: 6.5
+
 
 ---
 
