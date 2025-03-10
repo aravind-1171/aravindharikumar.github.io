@@ -64,4 +64,4 @@
 
 ---
 
-Feel free to explore my projects and contributions! I’m always open to collaborating on exciting projects and learning new skills. Let's connect!
+Feel free to explore my projects and contributions! I’m always open to collaborating on exciting projects and learning new skills.  Let's connect!
