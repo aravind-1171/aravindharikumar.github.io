@@ -53,7 +53,7 @@
 
 - [Applied Data Science Specialization](https://coursera.org) - IBM (Coursera)
 - [Python for Data Science and Machine Learning](https://udemy.com) - Udemy
-- [Currently Learning: TensorFlow Development](https://coursera.org) - Deeplearning.ai (Coursera)
+
 
 ---
 
